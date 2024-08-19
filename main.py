@@ -531,7 +531,7 @@ def open_design_window():
 
     def fetch_suggestions(input_text, listbox):
         try:
-            autocomplete_url = f"https://maps.googleapis.com/maps/api/place/autocomplete/json?input={input_text}&types=geocode&key=AIzaSyCm79VBrHtG1wSx3FmaWNJ9p53QgpfCcls"
+            autocomplete_url = f"https://maps.googleapis.com/maps/api/place/autocomplete/json?input={input_text}&types=geocode&key=YOUR_API_KEY"
             response = requests.get(autocomplete_url)
             response.raise_for_status()  # Will raise an HTTPError if the HTTP request returned an unsuccessful status code
             suggestions = response.json()
