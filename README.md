@@ -8,7 +8,7 @@ However, OpenSolar had significant limitations at the time of our product offeri
 
 To address these challenges, I developed CheckWatt-ify, a tool that enables salespeople to generate quotes with accurately calculated and graphically represented ROI, incorporating the correct price and subsidy amounts. We also used CheckWatt-ify to improve the quality of images and PDFs in our quotations, as we were not satisfied with the quality provided by the OpenSolar platform.
 
-------------------------------
+
 **IMPORTANT FOR USE - How To**
 ------------------------------
 Some computers have to add CheckWatt-ify as an exception to their Microsoft Defender Antivirus to able to execute the application.
@@ -21,7 +21,7 @@ Original OpenSolar quoting is created and named Raw Quote.pdf
 5. Double click on raw quote.
 6. Write a name for the new finalized quote.
 7. Done!
-------------------------------
+
 
 Hidden Button
 -------------
