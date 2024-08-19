@@ -11,9 +11,17 @@ To address these challenges, I developed CheckWatt-ify, a tool that enables sale
 
 **IMPORTANT FOR USE - How To**
 ------------------------------
+Download main.py, pdf_generator.py and files and have them in the same directory.
+Some computers have to temporarily disable Microsoft Defender Antivirus to able to create this application.
+
+Create .exe with PyInstaller:
+- pip install pyinstaller
+- cd path_to_your_project_directory
+- pyinstaller --onefile --windowed --icon=solarchoice.ico main.py
+
 Some computers have to add CheckWatt-ify as an exception to their Microsoft Defender Antivirus to able to execute the application.
 
-Original OpenSolar quoting is created and named Raw Quote.pdf
+(Original OpenSolar design-quote is created and named Raw Quote.pdf)
 1. Open CheckWatt-ify
 2. Write in your preferred values, "Kunduppgifter" doesn't functioning in this version.
 3. "Besparing Open Solar" should be 12125 as in the raw quote. This adds the revenue from the energy produced by the solar panels to the battery installation.
