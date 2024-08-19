@@ -14,10 +14,10 @@ To address these challenges, I developed CheckWatt-ify, a tool that enables sale
 Download main.py, pdf_generator.py and files and have them in the same directory.
 Some computers have to temporarily disable Microsoft Defender Antivirus to able to create this application.
 
-Create .exe with PyInstaller:
-- pip install pyinstaller
-- cd path_to_your_project_directory
-- pyinstaller --onefile --windowed --icon=solarchoice.ico main.py
+Create .exe with PyInstaller through Terminal:
+- "pip install pyinstaller"
+- "cd "path_to_your_project_directory"
+- "pyinstaller --onefile --windowed --icon=solarchoice.ico main.py"
 
 Some computers have to add CheckWatt-ify as an exception to their Microsoft Defender Antivirus to able to execute the application.
 
