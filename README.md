@@ -34,3 +34,8 @@ Some computers have to add CheckWatt-ify as an exception to their Microsoft Defe
 Hidden Button
 -------------
 At the bottom of the GUI, there is a hidden button that allows users to search for an address and retrieve an image of the property from Google Maps via their API. This feature was envisioned as the first step toward developing our own design tool and ultimately integrating the entire quoting process internally, eliminating the need for reliance on OpenSolar or any other external service.
+
+
+Comment
+-------------
+This program is currently in its initial form and was specifically developed to meet the quotation requirements for Solar Choice at the time of its creation. As such, it lacks the flexibility and adaptability needed to accommodate the diverse needs of different organizations.
