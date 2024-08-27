@@ -23,7 +23,7 @@ Some computers have to add CheckWatt-ify as an exception to their Microsoft Defe
 
 (Original OpenSolar design-quote is created and named Raw Quote.pdf)
 1. Open CheckWatt-ify
-2. Write in your preferred values, "Kunduppgifter" doesn't functioning in this version.
+2. Write in your preferred values. Note that "Kunduppgifter" doesn't function in this version.
 3. "Besparing Open Solar" should be 12125 as in the raw quote. This adds the revenue from the energy produced by the solar panels to the battery installation.
 4. Press "CheckWatt-ify"
 5. Double click on raw quote.
